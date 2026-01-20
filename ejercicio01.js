@@ -3,6 +3,8 @@
 
 function obtenerNombre() {
     // Escribe tu código aquí
+    var nombre = "Susana Garcia Rodriguez"; 
+    return nombre;
 }
 
 // No modificar.
